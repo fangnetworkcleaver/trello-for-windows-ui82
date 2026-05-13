@@ -1,4 +1,4 @@
-# 
+# vip Trello for Windows Extension | voice-input + progress-tracking offers the most advanced Trello for Windows extension, with voice-input and progress-tracking. Ideal for Windows
 
 
 
